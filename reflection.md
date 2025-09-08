@@ -23,3 +23,5 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+My main struggle was that I accidently had opened the solutions file for numbers.py and gpa.py so I was confused 
+as to what was wrong with the code. Once I figured out I had the solutions open I figured things out pretty quickly. I think the hardest part is learning how VS code actually works and keeping track of how to run tests, when to change code, etc. Most of the debugging was just changing ranges which wasn't difficult. 
